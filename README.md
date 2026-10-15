@@ -1,5 +1,7 @@
 # Boba-Bash-Badge
 This PCB badge is a custom light-up PCB with some cool silkscreen art and exposed copper art! I made this as a name badge for Boba Bash Peninsula, an event I have the opportunity of hosting under Hack Club! If you're a teen aged 13-18, RSVP for a Boba Bash near you: https://bash.hackclub.com/events
+
+** I'm @alisa on Slack :)
 ## Bill of Materials
 * 4x 1KΩ Resistor
 * 4x 5mm LEDs
